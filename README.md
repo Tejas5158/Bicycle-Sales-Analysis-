@@ -11,7 +11,7 @@ o	Limited understanding of sales patterns and trends.
 o	Manual data analysis and reporting are time-consuming and prone to errors.
 Proposed Solution
 1.	Interactive Data Exploration
-o	Enables drill-down into sales data by category, country, and subcategory.
+o	Enables drill-down into sales data by category, country, and subcategories.
 2.	Visualizations for Insights
 o	Utilizes line charts, pie charts, treemaps, and geographical maps to uncover trends and patterns.
 3.	Automated Reporting
