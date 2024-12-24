@@ -13,7 +13,7 @@ Proposed Solution
 1.	Interactive Data Exploration
 o	Enables drill-down into sales data by category, country, and subcategories.
 2.	Visualizations for Insights
-o	Utilizes line charts, pie charts, treemaps, and geographical maps to uncover trends and patterns.
+o	Utilizes line charts, pie charts, treemaps, donut chart and geographical maps to uncover trends and patterns.
 3.	Automated Reporting
 o	Generates real-time reports to support informed decision-making.
 ________________________________________
