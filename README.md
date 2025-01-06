@@ -1,7 +1,7 @@
 # Bicycle-Sales-Analysis-
 PowerBI
 
-Bicycle Sales Analysis Report
+Bicycle sales analysis report.
 Introduction This report presents a comprehensive analysis of bicycle sales trends using Power BI. The analysis aims to address challenges such as limited insights into sales patterns and inefficient reporting methods. By leveraging Power BI’s capabilities, the goal is to facilitate interactive data exploration, deliver actionable insights, and streamline reporting processes.
 ________________________________________
 Project Problem
